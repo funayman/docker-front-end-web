@@ -12,6 +12,7 @@ Rather than clutter my machine with a bunch of web tools, I use this as a base.
 ## To-Do
 * Include Sass CSS
 
+## Usage
 A quick script to use this image
 ```bash
 #!/bin/sh
