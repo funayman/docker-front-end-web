@@ -8,13 +8,14 @@ Rather than clutter my machine with a bunch of web tools, I use this as a base.
 * grunt
 * less
 * jshint
+* scss
 
 ## To-Do
-* Include Sass CSS
+* ~~Include Sass CSS~~
 
 ## Usage
 A quick script to use this image
 ```bash
 #!/bin/sh
-docker run -it --rm -v $(pwd):/opt/app funayman/webtools:latest $@
+docker run -it --rm -v $(pwd):/opt/app funayman/webtools $@
 ```
