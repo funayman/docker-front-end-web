@@ -9,6 +9,7 @@ Rather than clutter my machine with a bunch of web tools, I use this as a base.
 * less
 * jshint
 * scss
+* webpack
 
 ## To-Do
 * ~~Include Sass CSS~~
