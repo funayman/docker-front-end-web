@@ -8,7 +8,13 @@ Rather than clutter my machine with a bunch of web tools, I use this as a base.
 * grunt
 * less
 * jshint
+* uglify-js
 * scss
+* webpack
+* webpack-cli
+* @angular/cli
+
+RUN npm install -g grunt less jshint uglify-js webpack webpack-dev-server webpack-cli @angular/cli
 
 ## To-Do
 * ~~Include Sass CSS~~
